@@ -3,6 +3,7 @@
 Swat, KPK, Pakistan <br>
 (+92) 344 050 3646 <br>
 **sohail.hsd19@gmail.com** <br>
+**https://sohail-hsd.github.io**
 
 # Skills
 
