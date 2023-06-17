@@ -1,10 +1,8 @@
-# Hello
+# Hello <br> <br> I’m **Sohail Muhammad** 
 
-# I’m **Sohail Muhammad** 
-
-Swat, KPK, Pakistan
-(+92) 344 050 3646
-**sohail.hsd19@gmail.com**
+Swat, KPK, Pakistan <br>
+(+92) 344 050 3646 <br>
+**sohail.hsd19@gmail.com** <br>
 
 # Skills
 
@@ -22,7 +20,7 @@ injection, XSS, CSRF , DOS / DDOS** etc.
 
 17 Dec 2022 - PRESENT
 
-## Dot Commerce, Germany — SQA Engineer (Remote)
+### Dot Commerce, Germany — SQA Engineer (Remote)
 
 #### Below are my job responsibilities:
 
@@ -39,7 +37,7 @@ injection, XSS, CSRF , DOS / DDOS** etc.
 
 # Project
 
-## Track Me — Track your journeys and navigate with ease
+### Track Me — Track your journeys and navigate with ease
 
 ````
 A MERN stack smartphone app that enables users to easily trace their routes in real-time.
@@ -47,9 +45,7 @@ I conducted manual testing of this mobile app and the API testing with Postman. 
 is currently under development.
 ````
 
-### 2
-
-## Food GO — Order food from top restaurants
+### Food GO — Order food from top restaurants
 
 ```
 Using the Google Places API and Firestore, the Mobile app gives customers a simple and
@@ -57,7 +53,7 @@ enjoyable way to order meals from popular restaurants.
 In this project, I carried out the performance and regression testing. This project is currently
 being developed.
 ```
-## Trend Line — Real-time trending news updates
+### Trend Line — Real-time trending news updates
 
 ```
 An app that uses the News API can inform and connect with the people around you by
